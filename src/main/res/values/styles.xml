@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Theme2" parent="AppTheme">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="datepicker" parent="AppTheme">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorAccent">@color/green</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="android:calendarTextColor">@color/white</item>
+        <item name="colorPrimaryDark">@color/red</item>
+    </style>
+
+
+
+
+
+</resources>
+
+<!--<item name="colorPrimaryDark">@color/green</item>-->
